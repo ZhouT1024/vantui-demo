@@ -1,0 +1,23 @@
+{
+  "name": "vantui-demo",
+  "version": "0.0.1",
+  "description": "vant weapp demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhouT1024/vantui-demo.git"
+  },
+  "keywords": [
+    "vantui",
+    "demo"
+  ],
+  "author": "immrtao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhouT1024/vantui-demo/issues"
+  },
+  "homepage": "https://github.com/ZhouT1024/vantui-demo#readme"
+}

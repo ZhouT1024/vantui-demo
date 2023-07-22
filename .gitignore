@@ -1,0 +1,6 @@
+node_modules/
+/typings/
+
+.eslintrc.js
+.prettierc
+project.private.config.json
